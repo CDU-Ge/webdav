@@ -1,4 +1,8 @@
 > ⚠️ Disclaimer: this repository is not actively maintained. If you are interested in maintaining it, please [contact me](https://github.com/hacdias/webdav/issues/144).
+>
+> !!!
+> New Plan:
+>   - Add Log file support.
 
 # webdav
 
